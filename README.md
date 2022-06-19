@@ -6,8 +6,8 @@ This programs is designed to crawling data automatically from Farfetch using Sel
   Gather the price, brand, item name, img url, and item attributes url.
 
 
-### imag_save
+### img_save
 save images from saved image urls.
 
-### imag_save
+### item_properties
 save item attributes from saved urls.
