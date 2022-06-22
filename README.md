@@ -19,7 +19,10 @@ save item attributes from saved urls.
 
 ### Data
 ---
+##### Total 70552 data only in Mens Clothing
 ![image](https://user-images.githubusercontent.com/89527573/175087068-3a5bb9bc-b63e-4fc3-91f3-ef43c8e81be2.png)
+![image](https://user-images.githubusercontent.com/89527573/175088238-6e3e4c49-d1be-4115-984e-b5d00d8a6af8.png)
+
 ##### Item attributes & Composition
 by running item_properties.py
 ###### ['aged black ', 'cotton blend ', 'skinny cut ', 'ripped detailing ', 'paint splatter detail ', 'mid-rise ', 'belt loops ', 'front button fastening ', 'classic five pockets ']
