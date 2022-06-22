@@ -22,5 +22,5 @@ save item attributes from saved urls.
 ![image](https://user-images.githubusercontent.com/89527573/175087068-3a5bb9bc-b63e-4fc3-91f3-ef43c8e81be2.png)
 ##### Item attributes & Composition
 by running item_properties.py
-['aged black ', 'cotton blend ', 'skinny cut ', 'ripped detailing ', 'paint splatter detail ', 'mid-rise ', 'belt loops ', 'front button fastening ', 'classic five pockets ']
-Cotton 92%, Polyester 6%, Spandex/Elastane 2%
+###### ['aged black ', 'cotton blend ', 'skinny cut ', 'ripped detailing ', 'paint splatter detail ', 'mid-rise ', 'belt loops ', 'front button fastening ', 'classic five pockets ']
+###### Cotton 92%, Polyester 6%, Spandex/Elastane 2%
